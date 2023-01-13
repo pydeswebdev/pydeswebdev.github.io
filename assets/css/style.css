@@ -105,5 +105,9 @@ footer {
 	}
 }
 
-
+@media (max-width: 992px) {
+    .media-links {
+        margin-bottom: 2em;
+    }
+}
 
